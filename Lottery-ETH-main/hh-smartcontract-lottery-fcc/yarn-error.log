@@ -1,0 +1,27 @@
+Arguments: 
+  /home/rajbagaria23/.nvm/versions/node/v16.16.0/bin/node /home/rajbagaria23/.yarn/bin/yarn.js add --dev hardhat
+
+PATH: 
+  /home/rajbagaria23/.yarn/bin:/home/rajbagaria23/.config/yarn/global/node_modules/.bin:/home/rajbagaria23/.yarn/bin:/home/rajbagaria23/.config/yarn/global/node_modules/.bin:/home/rajbagaria23/.local/bin:/home/rajbagaria23/.yarn/bin:/home/rajbagaria23/.config/yarn/global/node_modules/.bin:/home/rajbagaria23/.nvm/versions/node/v16.16.0/bin:/home/rajbagaria23/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.16.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
